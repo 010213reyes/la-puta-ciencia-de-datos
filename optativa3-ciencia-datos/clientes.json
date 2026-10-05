@@ -1,0 +1,1202 @@
+[
+  {
+    "cliente_id": 2000,
+    "nombre": "Carlos",
+    "email": null,
+    "ciudad": "Guadalajara",
+    "compras_totales": 5,
+    "gasto_total": 1734.47
+  },
+  {
+    "cliente_id": 2001,
+    "nombre": "LUIS",
+    "email": "sin_correo",
+    "ciudad": "Monterrey",
+    "compras_totales": 0,
+    "gasto_total": 706.45
+  },
+  {
+    "cliente_id": 2002,
+    "nombre": "Carlos",
+    "email": "a@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 2,
+    "gasto_total": 1385.77
+  },
+  {
+    "cliente_id": 2003,
+    "nombre": "",
+    "email": "c@mail.com",
+    "ciudad": "Monterrey",
+    "compras_totales": 14,
+    "gasto_total": 348.98
+  },
+  {
+    "cliente_id": 2004,
+    "nombre": " ana ",
+    "email": "sin_correo",
+    "ciudad": "Guadalajara",
+    "compras_totales": 12,
+    "gasto_total": 1459.75
+  },
+  {
+    "cliente_id": 2005,
+    "nombre": "",
+    "email": "sin_correo",
+    "ciudad": "Guadalajara",
+    "compras_totales": 4,
+    "gasto_total": 770.28
+  },
+  {
+    "cliente_id": 2006,
+    "nombre": "Ana",
+    "email": "a@mail.com",
+    "ciudad": null,
+    "compras_totales": 12,
+    "gasto_total": 319.84
+  },
+  {
+    "cliente_id": 2007,
+    "nombre": "María",
+    "email": "b@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 3,
+    "gasto_total": 1745.71
+  },
+  {
+    "cliente_id": 2008,
+    "nombre": "José",
+    "email": "a@mail.com",
+    "ciudad": "cdmx",
+    "compras_totales": 13,
+    "gasto_total": 265.74
+  },
+  {
+    "cliente_id": 2009,
+    "nombre": " ana ",
+    "email": "a@mail.com",
+    "ciudad": null,
+    "compras_totales": 2,
+    "gasto_total": 1190.8
+  },
+  {
+    "cliente_id": 2010,
+    "nombre": " ana ",
+    "email": null,
+    "ciudad": "CDMX",
+    "compras_totales": 0,
+    "gasto_total": 115.19
+  },
+  {
+    "cliente_id": 2011,
+    "nombre": "María",
+    "email": "c@mail.com",
+    "ciudad": "GDL",
+    "compras_totales": 2,
+    "gasto_total": 1974.39
+  },
+  {
+    "cliente_id": 2012,
+    "nombre": "María",
+    "email": "sin_correo",
+    "ciudad": null,
+    "compras_totales": 13,
+    "gasto_total": 652.29
+  },
+  {
+    "cliente_id": 2013,
+    "nombre": "Ana",
+    "email": "a@mail.com",
+    "ciudad": "Monterrey",
+    "compras_totales": 4,
+    "gasto_total": 1042.29
+  },
+  {
+    "cliente_id": 2014,
+    "nombre": " ana ",
+    "email": "b@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 3,
+    "gasto_total": 137.2
+  },
+  {
+    "cliente_id": 2015,
+    "nombre": "Ana",
+    "email": "b@mail.com",
+    "ciudad": null,
+    "compras_totales": 12,
+    "gasto_total": 357.8
+  },
+  {
+    "cliente_id": 2016,
+    "nombre": "Sofía",
+    "email": "a@mail.com",
+    "ciudad": null,
+    "compras_totales": 5,
+    "gasto_total": 2099.55
+  },
+  {
+    "cliente_id": 2017,
+    "nombre": "",
+    "email": "b@mail.com",
+    "ciudad": "CDMX",
+    "compras_totales": 0,
+    "gasto_total": 1729.86
+  },
+  {
+    "cliente_id": 2018,
+    "nombre": "LUIS",
+    "email": "c@mail.com",
+    "ciudad": "GDL",
+    "compras_totales": 4,
+    "gasto_total": 528.7
+  },
+  {
+    "cliente_id": 2019,
+    "nombre": "LUIS",
+    "email": "sin_correo",
+    "ciudad": "cdmx",
+    "compras_totales": 6,
+    "gasto_total": 533.38
+  },
+  {
+    "cliente_id": 2020,
+    "nombre": "María",
+    "email": "a@mail.com",
+    "ciudad": "cdmx",
+    "compras_totales": 2,
+    "gasto_total": 1125.74
+  },
+  {
+    "cliente_id": 2021,
+    "nombre": "LUIS",
+    "email": "b@mail.com",
+    "ciudad": null,
+    "compras_totales": 13,
+    "gasto_total": 339.03
+  },
+  {
+    "cliente_id": 2022,
+    "nombre": "María",
+    "email": "c@mail.com",
+    "ciudad": null,
+    "compras_totales": 8,
+    "gasto_total": 2658.98
+  },
+  {
+    "cliente_id": 2023,
+    "nombre": "",
+    "email": null,
+    "ciudad": "CDMX",
+    "compras_totales": 4,
+    "gasto_total": 607.28
+  },
+  {
+    "cliente_id": 2024,
+    "nombre": "María",
+    "email": "a@mail.com",
+    "ciudad": "CDMX",
+    "compras_totales": 3,
+    "gasto_total": 1722.66
+  },
+  {
+    "cliente_id": 2025,
+    "nombre": " ana ",
+    "email": "a@mail.com",
+    "ciudad": null,
+    "compras_totales": 2,
+    "gasto_total": 614.93
+  },
+  {
+    "cliente_id": 2026,
+    "nombre": "José",
+    "email": "c@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 1,
+    "gasto_total": 1064.91
+  },
+  {
+    "cliente_id": 2027,
+    "nombre": "",
+    "email": "b@mail.com",
+    "ciudad": null,
+    "compras_totales": 15,
+    "gasto_total": 827.12
+  },
+  {
+    "cliente_id": 2028,
+    "nombre": "Ana",
+    "email": "b@mail.com",
+    "ciudad": "Monterrey",
+    "compras_totales": 1,
+    "gasto_total": 331.97
+  },
+  {
+    "cliente_id": 2029,
+    "nombre": "Sofía",
+    "email": "a@mail.com",
+    "ciudad": "cdmx",
+    "compras_totales": 3,
+    "gasto_total": 654.53
+  },
+  {
+    "cliente_id": 2030,
+    "nombre": " ana ",
+    "email": "c@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 2,
+    "gasto_total": 475.72
+  },
+  {
+    "cliente_id": 2031,
+    "nombre": "José",
+    "email": "sin_correo",
+    "ciudad": "Monterrey",
+    "compras_totales": 12,
+    "gasto_total": 808.89
+  },
+  {
+    "cliente_id": 2032,
+    "nombre": "José",
+    "email": null,
+    "ciudad": "cdmx",
+    "compras_totales": 2,
+    "gasto_total": 1695.65
+  },
+  {
+    "cliente_id": 2033,
+    "nombre": "Carlos",
+    "email": "a@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 4,
+    "gasto_total": 1090.53
+  },
+  {
+    "cliente_id": 2034,
+    "nombre": "Carlos",
+    "email": null,
+    "ciudad": "Guadalajara",
+    "compras_totales": 2,
+    "gasto_total": 220.97
+  },
+  {
+    "cliente_id": 2035,
+    "nombre": "Luis",
+    "email": "a@mail.com",
+    "ciudad": "Monterrey",
+    "compras_totales": 5,
+    "gasto_total": 1316.07
+  },
+  {
+    "cliente_id": 2036,
+    "nombre": "Luis",
+    "email": "c@mail.com",
+    "ciudad": null,
+    "compras_totales": 5,
+    "gasto_total": 892.71
+  },
+  {
+    "cliente_id": 2037,
+    "nombre": "María",
+    "email": null,
+    "ciudad": "cdmx",
+    "compras_totales": 9,
+    "gasto_total": 381.79
+  },
+  {
+    "cliente_id": 2038,
+    "nombre": "José",
+    "email": "a@mail.com",
+    "ciudad": "CDMX",
+    "compras_totales": 7,
+    "gasto_total": 137.99
+  },
+  {
+    "cliente_id": 2039,
+    "nombre": "Carlos",
+    "email": "c@mail.com",
+    "ciudad": "Monterrey",
+    "compras_totales": 2,
+    "gasto_total": 1704.03
+  },
+  {
+    "cliente_id": 2040,
+    "nombre": "Luis",
+    "email": "sin_correo",
+    "ciudad": "cdmx",
+    "compras_totales": 10,
+    "gasto_total": 1149.68
+  },
+  {
+    "cliente_id": 2041,
+    "nombre": "José",
+    "email": "a@mail.com",
+    "ciudad": "cdmx",
+    "compras_totales": 15,
+    "gasto_total": 2896.68
+  },
+  {
+    "cliente_id": 2042,
+    "nombre": "Luis",
+    "email": "a@mail.com",
+    "ciudad": "cdmx",
+    "compras_totales": 3,
+    "gasto_total": 1108.91
+  },
+  {
+    "cliente_id": 2043,
+    "nombre": "Ana",
+    "email": "sin_correo",
+    "ciudad": "GDL",
+    "compras_totales": 7,
+    "gasto_total": 2161.59
+  },
+  {
+    "cliente_id": 2044,
+    "nombre": "Luis",
+    "email": "sin_correo",
+    "ciudad": "Guadalajara",
+    "compras_totales": 4,
+    "gasto_total": 1292.9
+  },
+  {
+    "cliente_id": 2045,
+    "nombre": " ana ",
+    "email": "a@mail.com",
+    "ciudad": "GDL",
+    "compras_totales": 2,
+    "gasto_total": 737.64
+  },
+  {
+    "cliente_id": 2046,
+    "nombre": "María",
+    "email": "sin_correo",
+    "ciudad": "GDL",
+    "compras_totales": 12,
+    "gasto_total": 423.58
+  },
+  {
+    "cliente_id": 2047,
+    "nombre": "María",
+    "email": "c@mail.com",
+    "ciudad": "CDMX",
+    "compras_totales": 5,
+    "gasto_total": 441.23
+  },
+  {
+    "cliente_id": 2048,
+    "nombre": "Sofía",
+    "email": "sin_correo",
+    "ciudad": null,
+    "compras_totales": 14,
+    "gasto_total": 462.32
+  },
+  {
+    "cliente_id": 2049,
+    "nombre": "",
+    "email": null,
+    "ciudad": null,
+    "compras_totales": 8,
+    "gasto_total": 265.58
+  },
+  {
+    "cliente_id": 2050,
+    "nombre": "Ana",
+    "email": "sin_correo",
+    "ciudad": "Guadalajara",
+    "compras_totales": 16,
+    "gasto_total": 125.9
+  },
+  {
+    "cliente_id": 2051,
+    "nombre": "",
+    "email": "b@mail.com",
+    "ciudad": null,
+    "compras_totales": 4,
+    "gasto_total": 1652.06
+  },
+  {
+    "cliente_id": 2052,
+    "nombre": "",
+    "email": "sin_correo",
+    "ciudad": "Monterrey",
+    "compras_totales": 6,
+    "gasto_total": 657.37
+  },
+  {
+    "cliente_id": 2053,
+    "nombre": "José",
+    "email": "c@mail.com",
+    "ciudad": "Monterrey",
+    "compras_totales": 3,
+    "gasto_total": 1586.61
+  },
+  {
+    "cliente_id": 2054,
+    "nombre": "María",
+    "email": "c@mail.com",
+    "ciudad": "GDL",
+    "compras_totales": 0,
+    "gasto_total": 749.34
+  },
+  {
+    "cliente_id": 2055,
+    "nombre": "María",
+    "email": "sin_correo",
+    "ciudad": "Guadalajara",
+    "compras_totales": 3,
+    "gasto_total": 349.83
+  },
+  {
+    "cliente_id": 2056,
+    "nombre": "LUIS",
+    "email": "b@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 10,
+    "gasto_total": 353.77
+  },
+  {
+    "cliente_id": 2057,
+    "nombre": "María",
+    "email": "c@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 5,
+    "gasto_total": 1049.12
+  },
+  {
+    "cliente_id": 2058,
+    "nombre": "José",
+    "email": null,
+    "ciudad": "CDMX",
+    "compras_totales": 7,
+    "gasto_total": 378.86
+  },
+  {
+    "cliente_id": 2059,
+    "nombre": "María",
+    "email": "c@mail.com",
+    "ciudad": "CDMX",
+    "compras_totales": 3,
+    "gasto_total": 1320.51
+  },
+  {
+    "cliente_id": 2060,
+    "nombre": "Carlos",
+    "email": null,
+    "ciudad": "Monterrey",
+    "compras_totales": 3,
+    "gasto_total": 1544.85
+  },
+  {
+    "cliente_id": 2061,
+    "nombre": "Sofía",
+    "email": "b@mail.com",
+    "ciudad": null,
+    "compras_totales": 5,
+    "gasto_total": 3978.8
+  },
+  {
+    "cliente_id": 2062,
+    "nombre": "",
+    "email": null,
+    "ciudad": "Monterrey",
+    "compras_totales": 8,
+    "gasto_total": 1153.54
+  },
+  {
+    "cliente_id": 2063,
+    "nombre": " ana ",
+    "email": "a@mail.com",
+    "ciudad": "GDL",
+    "compras_totales": 10,
+    "gasto_total": 791.26
+  },
+  {
+    "cliente_id": 2064,
+    "nombre": "Luis",
+    "email": "sin_correo",
+    "ciudad": "GDL",
+    "compras_totales": 1,
+    "gasto_total": 1896.51
+  },
+  {
+    "cliente_id": 2065,
+    "nombre": "Luis",
+    "email": "c@mail.com",
+    "ciudad": "GDL",
+    "compras_totales": 1,
+    "gasto_total": 936.56
+  },
+  {
+    "cliente_id": 2066,
+    "nombre": "Sofía",
+    "email": null,
+    "ciudad": "Guadalajara",
+    "compras_totales": 14,
+    "gasto_total": 1107.03
+  },
+  {
+    "cliente_id": 2067,
+    "nombre": "",
+    "email": "a@mail.com",
+    "ciudad": "cdmx",
+    "compras_totales": 12,
+    "gasto_total": 1499.38
+  },
+  {
+    "cliente_id": 2068,
+    "nombre": "",
+    "email": "c@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 1,
+    "gasto_total": 1028.91
+  },
+  {
+    "cliente_id": 2069,
+    "nombre": "Ana",
+    "email": "b@mail.com",
+    "ciudad": "cdmx",
+    "compras_totales": 3,
+    "gasto_total": 923.8
+  },
+  {
+    "cliente_id": 2070,
+    "nombre": " ana ",
+    "email": "a@mail.com",
+    "ciudad": "CDMX",
+    "compras_totales": 21,
+    "gasto_total": 1589.77
+  },
+  {
+    "cliente_id": 2071,
+    "nombre": "",
+    "email": null,
+    "ciudad": null,
+    "compras_totales": 7,
+    "gasto_total": 1602.59
+  },
+  {
+    "cliente_id": 2072,
+    "nombre": "LUIS",
+    "email": "b@mail.com",
+    "ciudad": "cdmx",
+    "compras_totales": 12,
+    "gasto_total": 953.92
+  },
+  {
+    "cliente_id": 2073,
+    "nombre": "",
+    "email": null,
+    "ciudad": "cdmx",
+    "compras_totales": 11,
+    "gasto_total": 596.61
+  },
+  {
+    "cliente_id": 2074,
+    "nombre": "LUIS",
+    "email": "a@mail.com",
+    "ciudad": null,
+    "compras_totales": 24,
+    "gasto_total": 254.87
+  },
+  {
+    "cliente_id": 2075,
+    "nombre": " ana ",
+    "email": "b@mail.com",
+    "ciudad": "cdmx",
+    "compras_totales": 20,
+    "gasto_total": 2372.79
+  },
+  {
+    "cliente_id": 2076,
+    "nombre": "Carlos",
+    "email": null,
+    "ciudad": null,
+    "compras_totales": 3,
+    "gasto_total": 1032.13
+  },
+  {
+    "cliente_id": 2077,
+    "nombre": "",
+    "email": "c@mail.com",
+    "ciudad": null,
+    "compras_totales": 6,
+    "gasto_total": 918.25
+  },
+  {
+    "cliente_id": 2078,
+    "nombre": "LUIS",
+    "email": "c@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 7,
+    "gasto_total": 169.18
+  },
+  {
+    "cliente_id": 2079,
+    "nombre": " ana ",
+    "email": null,
+    "ciudad": "GDL",
+    "compras_totales": 8,
+    "gasto_total": 2334.62
+  },
+  {
+    "cliente_id": 2080,
+    "nombre": "José",
+    "email": "b@mail.com",
+    "ciudad": "cdmx",
+    "compras_totales": 4,
+    "gasto_total": 864.94
+  },
+  {
+    "cliente_id": 2081,
+    "nombre": "María",
+    "email": "sin_correo",
+    "ciudad": null,
+    "compras_totales": 11,
+    "gasto_total": 695.6
+  },
+  {
+    "cliente_id": 2082,
+    "nombre": "José",
+    "email": "sin_correo",
+    "ciudad": "GDL",
+    "compras_totales": 8,
+    "gasto_total": 1453.11
+  },
+  {
+    "cliente_id": 2083,
+    "nombre": "María",
+    "email": "b@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 2,
+    "gasto_total": 1081.34
+  },
+  {
+    "cliente_id": 2084,
+    "nombre": "Luis",
+    "email": "c@mail.com",
+    "ciudad": "GDL",
+    "compras_totales": 12,
+    "gasto_total": 907.8
+  },
+  {
+    "cliente_id": 2085,
+    "nombre": " ana ",
+    "email": "c@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 1,
+    "gasto_total": 337.17
+  },
+  {
+    "cliente_id": 2086,
+    "nombre": "Ana",
+    "email": "c@mail.com",
+    "ciudad": "cdmx",
+    "compras_totales": 4,
+    "gasto_total": 126.83
+  },
+  {
+    "cliente_id": 2087,
+    "nombre": "LUIS",
+    "email": "b@mail.com",
+    "ciudad": "cdmx",
+    "compras_totales": 3,
+    "gasto_total": 2075.37
+  },
+  {
+    "cliente_id": 2088,
+    "nombre": "José",
+    "email": "b@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 3,
+    "gasto_total": 301.05
+  },
+  {
+    "cliente_id": 2089,
+    "nombre": "María",
+    "email": "a@mail.com",
+    "ciudad": null,
+    "compras_totales": 1,
+    "gasto_total": 789.26
+  },
+  {
+    "cliente_id": 2090,
+    "nombre": "José",
+    "email": "sin_correo",
+    "ciudad": "CDMX",
+    "compras_totales": 1,
+    "gasto_total": 194.5
+  },
+  {
+    "cliente_id": 2091,
+    "nombre": "Ana",
+    "email": "sin_correo",
+    "ciudad": "CDMX",
+    "compras_totales": 2,
+    "gasto_total": 595.08
+  },
+  {
+    "cliente_id": 2092,
+    "nombre": "María",
+    "email": "sin_correo",
+    "ciudad": "CDMX",
+    "compras_totales": 1,
+    "gasto_total": 358.94
+  },
+  {
+    "cliente_id": 2093,
+    "nombre": "Luis",
+    "email": "a@mail.com",
+    "ciudad": "GDL",
+    "compras_totales": 20,
+    "gasto_total": 423.53
+  },
+  {
+    "cliente_id": 2094,
+    "nombre": "Ana",
+    "email": "c@mail.com",
+    "ciudad": "GDL",
+    "compras_totales": 3,
+    "gasto_total": 403.34
+  },
+  {
+    "cliente_id": 2095,
+    "nombre": "María",
+    "email": "sin_correo",
+    "ciudad": "Guadalajara",
+    "compras_totales": 2,
+    "gasto_total": 1027.21
+  },
+  {
+    "cliente_id": 2096,
+    "nombre": "Sofía",
+    "email": "b@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 1,
+    "gasto_total": 1714.03
+  },
+  {
+    "cliente_id": 2097,
+    "nombre": "Ana",
+    "email": "a@mail.com",
+    "ciudad": null,
+    "compras_totales": 4,
+    "gasto_total": 1656.43
+  },
+  {
+    "cliente_id": 2098,
+    "nombre": "Sofía",
+    "email": "b@mail.com",
+    "ciudad": "GDL",
+    "compras_totales": 7,
+    "gasto_total": 291.54
+  },
+  {
+    "cliente_id": 2099,
+    "nombre": "Ana",
+    "email": "sin_correo",
+    "ciudad": "cdmx",
+    "compras_totales": 3,
+    "gasto_total": 775.07
+  },
+  {
+    "cliente_id": 2100,
+    "nombre": "María",
+    "email": "b@mail.com",
+    "ciudad": "GDL",
+    "compras_totales": 1,
+    "gasto_total": 1318.93
+  },
+  {
+    "cliente_id": 2101,
+    "nombre": "Sofía",
+    "email": "sin_correo",
+    "ciudad": "Monterrey",
+    "compras_totales": 5,
+    "gasto_total": 77.3
+  },
+  {
+    "cliente_id": 2102,
+    "nombre": "Luis",
+    "email": "a@mail.com",
+    "ciudad": null,
+    "compras_totales": 2,
+    "gasto_total": 410.27
+  },
+  {
+    "cliente_id": 2103,
+    "nombre": " ana ",
+    "email": "sin_correo",
+    "ciudad": "Monterrey",
+    "compras_totales": 2,
+    "gasto_total": 363.89
+  },
+  {
+    "cliente_id": 2104,
+    "nombre": "José",
+    "email": "sin_correo",
+    "ciudad": "CDMX",
+    "compras_totales": 6,
+    "gasto_total": 569.59
+  },
+  {
+    "cliente_id": 2105,
+    "nombre": "José",
+    "email": "a@mail.com",
+    "ciudad": "CDMX",
+    "compras_totales": 9,
+    "gasto_total": 568.73
+  },
+  {
+    "cliente_id": 2106,
+    "nombre": " ana ",
+    "email": "a@mail.com",
+    "ciudad": "Monterrey",
+    "compras_totales": 5,
+    "gasto_total": 135.45
+  },
+  {
+    "cliente_id": 2107,
+    "nombre": "Luis",
+    "email": "a@mail.com",
+    "ciudad": null,
+    "compras_totales": 2,
+    "gasto_total": 1508.11
+  },
+  {
+    "cliente_id": 2108,
+    "nombre": "Ana",
+    "email": "a@mail.com",
+    "ciudad": "cdmx",
+    "compras_totales": 10,
+    "gasto_total": 612.36
+  },
+  {
+    "cliente_id": 2109,
+    "nombre": "José",
+    "email": "b@mail.com",
+    "ciudad": "cdmx",
+    "compras_totales": 2,
+    "gasto_total": 634.72
+  },
+  {
+    "cliente_id": 2110,
+    "nombre": " ana ",
+    "email": "b@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 6,
+    "gasto_total": 755.01
+  },
+  {
+    "cliente_id": 2111,
+    "nombre": " ana ",
+    "email": "c@mail.com",
+    "ciudad": "CDMX",
+    "compras_totales": 2,
+    "gasto_total": 1603.0
+  },
+  {
+    "cliente_id": 2112,
+    "nombre": "",
+    "email": "a@mail.com",
+    "ciudad": "Monterrey",
+    "compras_totales": 3,
+    "gasto_total": 431.34
+  },
+  {
+    "cliente_id": 2113,
+    "nombre": "Luis",
+    "email": "c@mail.com",
+    "ciudad": "CDMX",
+    "compras_totales": 12,
+    "gasto_total": 644.53
+  },
+  {
+    "cliente_id": 2114,
+    "nombre": "María",
+    "email": "b@mail.com",
+    "ciudad": "Monterrey",
+    "compras_totales": 3,
+    "gasto_total": 309.4
+  },
+  {
+    "cliente_id": 2115,
+    "nombre": "Sofía",
+    "email": "sin_correo",
+    "ciudad": "CDMX",
+    "compras_totales": 11,
+    "gasto_total": 724.76
+  },
+  {
+    "cliente_id": 2116,
+    "nombre": "Luis",
+    "email": "a@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 7,
+    "gasto_total": 1431.78
+  },
+  {
+    "cliente_id": 2117,
+    "nombre": "LUIS",
+    "email": "c@mail.com",
+    "ciudad": "Monterrey",
+    "compras_totales": 14,
+    "gasto_total": 1202.4
+  },
+  {
+    "cliente_id": 2118,
+    "nombre": "Ana",
+    "email": "a@mail.com",
+    "ciudad": "Monterrey",
+    "compras_totales": 12,
+    "gasto_total": 3029.72
+  },
+  {
+    "cliente_id": 2119,
+    "nombre": "Ana",
+    "email": "c@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 8,
+    "gasto_total": 132.78
+  },
+  {
+    "cliente_id": 2120,
+    "nombre": "Carlos",
+    "email": "a@mail.com",
+    "ciudad": "cdmx",
+    "compras_totales": 4,
+    "gasto_total": 743.94
+  },
+  {
+    "cliente_id": 2121,
+    "nombre": "Luis",
+    "email": "a@mail.com",
+    "ciudad": "Monterrey",
+    "compras_totales": 7,
+    "gasto_total": 274.74
+  },
+  {
+    "cliente_id": 2122,
+    "nombre": "Luis",
+    "email": "sin_correo",
+    "ciudad": "GDL",
+    "compras_totales": 6,
+    "gasto_total": 1175.44
+  },
+  {
+    "cliente_id": 2123,
+    "nombre": "María",
+    "email": null,
+    "ciudad": "Monterrey",
+    "compras_totales": 10,
+    "gasto_total": 595.85
+  },
+  {
+    "cliente_id": 2124,
+    "nombre": "Luis",
+    "email": "sin_correo",
+    "ciudad": "GDL",
+    "compras_totales": 9,
+    "gasto_total": 1965.87
+  },
+  {
+    "cliente_id": 2125,
+    "nombre": "José",
+    "email": null,
+    "ciudad": "cdmx",
+    "compras_totales": 4,
+    "gasto_total": 674.72
+  },
+  {
+    "cliente_id": 2126,
+    "nombre": "Luis",
+    "email": "sin_correo",
+    "ciudad": "cdmx",
+    "compras_totales": 0,
+    "gasto_total": 302.05
+  },
+  {
+    "cliente_id": 2127,
+    "nombre": "LUIS",
+    "email": "sin_correo",
+    "ciudad": "Guadalajara",
+    "compras_totales": 8,
+    "gasto_total": 2788.39
+  },
+  {
+    "cliente_id": 2128,
+    "nombre": "José",
+    "email": "c@mail.com",
+    "ciudad": "cdmx",
+    "compras_totales": 17,
+    "gasto_total": 61.59
+  },
+  {
+    "cliente_id": 2129,
+    "nombre": "María",
+    "email": "sin_correo",
+    "ciudad": null,
+    "compras_totales": 3,
+    "gasto_total": 833.61
+  },
+  {
+    "cliente_id": 2130,
+    "nombre": "",
+    "email": "b@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 10,
+    "gasto_total": 222.16
+  },
+  {
+    "cliente_id": 2131,
+    "nombre": "",
+    "email": null,
+    "ciudad": "Guadalajara",
+    "compras_totales": 5,
+    "gasto_total": 1026.11
+  },
+  {
+    "cliente_id": 2132,
+    "nombre": "Sofía",
+    "email": "a@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 3,
+    "gasto_total": 379.9
+  },
+  {
+    "cliente_id": 2133,
+    "nombre": "",
+    "email": "c@mail.com",
+    "ciudad": "Monterrey",
+    "compras_totales": 8,
+    "gasto_total": 1535.9
+  },
+  {
+    "cliente_id": 2134,
+    "nombre": " ana ",
+    "email": "sin_correo",
+    "ciudad": null,
+    "compras_totales": 10,
+    "gasto_total": 550.99
+  },
+  {
+    "cliente_id": 2135,
+    "nombre": "Luis",
+    "email": "sin_correo",
+    "ciudad": "cdmx",
+    "compras_totales": 13,
+    "gasto_total": 1542.93
+  },
+  {
+    "cliente_id": 2136,
+    "nombre": "",
+    "email": "b@mail.com",
+    "ciudad": "Monterrey",
+    "compras_totales": 3,
+    "gasto_total": 2770.99
+  },
+  {
+    "cliente_id": 2137,
+    "nombre": "Carlos",
+    "email": "a@mail.com",
+    "ciudad": null,
+    "compras_totales": 2,
+    "gasto_total": 193.82
+  },
+  {
+    "cliente_id": 2138,
+    "nombre": "Sofía",
+    "email": "a@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 5,
+    "gasto_total": 80.18
+  },
+  {
+    "cliente_id": 2139,
+    "nombre": "Carlos",
+    "email": "c@mail.com",
+    "ciudad": "Monterrey",
+    "compras_totales": 3,
+    "gasto_total": 1174.74
+  },
+  {
+    "cliente_id": 2140,
+    "nombre": "Ana",
+    "email": "sin_correo",
+    "ciudad": "CDMX",
+    "compras_totales": 10,
+    "gasto_total": 796.29
+  },
+  {
+    "cliente_id": 2141,
+    "nombre": "Sofía",
+    "email": "a@mail.com",
+    "ciudad": "Guadalajara",
+    "compras_totales": 7,
+    "gasto_total": 69.2
+  },
+  {
+    "cliente_id": 2142,
+    "nombre": "LUIS",
+    "email": "c@mail.com",
+    "ciudad": null,
+    "compras_totales": 8,
+    "gasto_total": 589.88
+  },
+  {
+    "cliente_id": 2143,
+    "nombre": "LUIS",
+    "email": "sin_correo",
+    "ciudad": "CDMX",
+    "compras_totales": 7,
+    "gasto_total": 2854.09
+  },
+  {
+    "cliente_id": 2144,
+    "nombre": "Carlos",
+    "email": "c@mail.com",
+    "ciudad": "CDMX",
+    "compras_totales": 1,
+    "gasto_total": 574.8
+  },
+  {
+    "cliente_id": 2145,
+    "nombre": "",
+    "email": "sin_correo",
+    "ciudad": null,
+    "compras_totales": 2,
+    "gasto_total": 634.93
+  },
+  {
+    "cliente_id": 2146,
+    "nombre": "Carlos",
+    "email": "a@mail.com",
+    "ciudad": "GDL",
+    "compras_totales": 4,
+    "gasto_total": 1652.27
+  },
+  {
+    "cliente_id": 2147,
+    "nombre": "José",
+    "email": "sin_correo",
+    "ciudad": "CDMX",
+    "compras_totales": 5,
+    "gasto_total": 523.92
+  },
+  {
+    "cliente_id": 2148,
+    "nombre": "LUIS",
+    "email": null,
+    "ciudad": "CDMX",
+    "compras_totales": 1,
+    "gasto_total": 494.32
+  },
+  {
+    "cliente_id": 2149,
+    "nombre": "José",
+    "email": "c@mail.com",
+    "ciudad": "GDL",
+    "compras_totales": 3,
+    "gasto_total": 1072.93
+  }
+]
