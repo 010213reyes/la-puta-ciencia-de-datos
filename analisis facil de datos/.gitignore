@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+
+
+.venv/
+__pycache__/
+*.pyc
+almacen.db

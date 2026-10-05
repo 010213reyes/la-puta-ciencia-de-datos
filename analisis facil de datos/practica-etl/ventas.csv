@@ -1,0 +1,13 @@
+producto,categoria,precio,cantidad
+Laptop,Computo,15000,2
+Mouse,Computo,250,5
+Teclado,Computo,650,3
+Monitor,Computo,3200,2
+Escritorio,Oficina,2800,1
+Silla,Oficina,1800,4
+Libreta,Papeleria,45,10
+Pluma,Papeleria,15,20
+Mochila,Accesorios,850,3
+Audifonos,Accesorios,1200,2
+Webcam,Computo,900,2
+Lampara,Oficina,450,3
