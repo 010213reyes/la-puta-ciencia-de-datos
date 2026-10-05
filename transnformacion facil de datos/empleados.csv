@@ -1,0 +1,501 @@
+empleado_id,departamento,nivel,ciudad,educacion,edad,salario_mensual,horas_semana,proyectos_completados,satisfaccion,fecha_ingreso
+1000,Ventas,Junior,Querétaro,Licenciatura,24,28193.13,49,10,1.6,2016-08-18
+1001,Marketing,Lead,Monterrey,Licenciatura,23,59236.19,52,10,4.4,2017-01-12
+1002,Recursos Humanos,Junior,Puebla,Licenciatura,27,33076.34,47,5,4.7,2017-11-30
+1003,Finanzas,Lead,Puebla,Técnico,56,89067.13,37,10,2.8,2020-06-16
+1004,Ventas,Lead,Querétaro,Doctorado,45,73832.11,38,6,2.4,2023-03-18
+1005,Tecnología,Junior,Monterrey,Maestría,57,50246.63,50,5,4.0,2019-02-21
+1006,Tecnología,Senior,CDMX,Técnico,45,81568.65,35,15,1.2,2020-09-10
+1007,Recursos Humanos,Junior,Puebla,Técnico,56,35470.6,42,7,1.9,2021-04-04
+1008,Tecnología,Junior,Puebla,Maestría,56,65611.94,44,8,3.5,2024-09-02
+1009,Tecnología,Junior,Querétaro,Maestría,43,45456.77,46,7,2.4,2015-12-14
+1010,Ventas,Semi-Senior,Querétaro,Maestría,33,53653.81,35,4,2.2,2015-02-09
+1011,Finanzas,Senior,Puebla,Doctorado,52,70721.67,51,10,2.8,2016-10-27
+1012,Finanzas,Junior,CDMX,Técnico,56,49867.88,54,8,1.2,2023-06-06
+1013,Tecnología,Junior,Guadalajara,Licenciatura,42,43307.35,40,9,3.6,2020-03-30
+1014,Marketing,Senior,CDMX,Maestría,47,59435.48,47,12,3.8,2024-08-02
+1015,Recursos Humanos,Junior,Guadalajara,Licenciatura,51,66251.35,54,9,4.7,2019-03-29
+1016,Tecnología,Semi-Senior,Puebla,Licenciatura,43,68626.62,44,7,1.7,2015-02-19
+1017,Tecnología,Junior,Guadalajara,Licenciatura,32,53380.25,41,9,4.6,2021-11-12
+1018,Ventas,Semi-Senior,Puebla,Maestría,29,45078.44,38,7,1.7,2018-05-01
+1019,Tecnología,Semi-Senior,Puebla,Maestría,57,96856.35,42,6,2.3,2023-06-12
+1020,Tecnología,Semi-Senior,CDMX,Licenciatura,52,65091.15,37,8,4.2,2016-06-17
+1021,Finanzas,Junior,Querétaro,Licenciatura,22,41395.3,39,6,2.1,2019-05-04
+1022,Ventas,Semi-Senior,Monterrey,Licenciatura,39,76832.87,44,8,3.1,2024-03-23
+1023,Finanzas,Semi-Senior,CDMX,Doctorado,58,50034.67,38,12,1.8,2019-06-04
+1024,Marketing,Junior,Querétaro,Maestría,54,51405.1,42,11,4.0,2020-02-26
+1025,Marketing,Junior,Puebla,Maestría,56,45385.39,36,6,3.3,2023-07-27
+1026,Ventas,Junior,Monterrey,Técnico,30,66133.9,52,6,1.9,2016-02-08
+1027,Marketing,Junior,Monterrey,Licenciatura,24,46671.18,53,9,4.2,2018-12-12
+1028,Recursos Humanos,Junior,Querétaro,Licenciatura,32,31140.91,35,8,3.1,2021-02-13
+1029,Ventas,Junior,Guadalajara,Técnico,24,46189.74,38,16,2.6,2022-02-12
+1030,Ventas,Junior,Monterrey,Maestría,25,42394.04,46,10,4.0,2022-02-09
+1031,Finanzas,Semi-Senior,Monterrey,Técnico,52,72160.12,42,6,1.1,2016-07-31
+1032,Marketing,Semi-Senior,Guadalajara,Licenciatura,27,45716.62,44,8,4.5,2023-01-24
+1033,Tecnología,Senior,Querétaro,Técnico,25,51972.49,40,8,4.4,2020-03-23
+1034,Recursos Humanos,Semi-Senior,Querétaro,Licenciatura,30,67579.81,53,7,3.1,2022-06-24
+1035,Marketing,Junior,Puebla,Licenciatura,34,37039.1,38,4,1.5,2020-08-25
+1036,Marketing,Semi-Senior,CDMX,Licenciatura,29,63368.04,40,6,4.0,2015-08-03
+1037,Tecnología,Junior,Querétaro,Maestría,28,35505.07,38,9,3.5,2018-02-01
+1038,Finanzas,Semi-Senior,Monterrey,Maestría,30,78936.3,50,4,3.7,2020-08-06
+1039,Recursos Humanos,Junior,Guadalajara,Maestría,41,74701.75,45,18,1.2,2016-11-29
+1040,Finanzas,Senior,CDMX,Licenciatura,42,52950.17,39,8,1.5,2016-06-21
+1041,Finanzas,Semi-Senior,CDMX,Maestría,32,60692.77,47,4,4.2,2018-05-03
+1042,Finanzas,Semi-Senior,CDMX,Licenciatura,24,45927.53,41,8,2.8,2022-05-09
+1043,Finanzas,Senior,CDMX,Maestría,23,85856.33,54,6,2.8,2020-09-14
+1044,Marketing,Junior,CDMX,Licenciatura,58,38833.14,50,5,3.8,2024-09-22
+1045,Finanzas,Junior,Querétaro,Licenciatura,57,50270.07,36,6,3.1,2023-07-26
+1046,Recursos Humanos,Semi-Senior,Monterrey,Licenciatura,39,92294.29,43,9,3.0,2018-07-17
+1047,Marketing,Junior,Querétaro,Licenciatura,27,33897.2,41,2,1.2,2021-06-22
+1048,Ventas,Junior,Querétaro,Licenciatura,23,42144.15,48,6,1.5,2019-04-08
+1049,Finanzas,Junior,Monterrey,Licenciatura,56,48211.88,54,5,2.6,2022-02-04
+1050,Finanzas,Lead,CDMX,Doctorado,33,72903.12,51,7,4.6,2017-05-12
+1051,Ventas,Semi-Senior,Monterrey,Doctorado,31,58223.1,44,8,5.0,2024-09-04
+1052,Tecnología,Junior,Monterrey,Técnico,36,61685.82,50,10,3.9,2017-10-21
+1053,Marketing,Senior,Puebla,Maestría,53,66780.13,49,11,4.9,2017-07-06
+1054,Ventas,Semi-Senior,CDMX,Licenciatura,59,56894.99,47,6,1.1,2016-06-02
+1055,Finanzas,Senior,CDMX,Licenciatura,31,58630.85,36,10,1.8,2020-09-11
+1056,Recursos Humanos,Semi-Senior,CDMX,Doctorado,26,73119.82,50,6,4.8,2018-10-10
+1057,Tecnología,Junior,Puebla,Licenciatura,37,28842.71,54,9,1.4,2017-10-17
+1058,Ventas,Lead,Monterrey,Maestría,53,87121.06,43,8,3.9,2019-04-18
+1059,Recursos Humanos,Lead,Guadalajara,Maestría,57,80144.57,39,11,4.6,2020-12-30
+1060,Ventas,Senior,Puebla,Licenciatura,30,43302.45,38,6,1.4,2024-11-24
+1061,Marketing,Junior,Querétaro,Maestría,45,34334.95,40,6,2.6,2022-03-23
+1062,Finanzas,Junior,Querétaro,Licenciatura,51,50304.4,38,16,4.5,2021-11-20
+1063,Finanzas,Junior,Guadalajara,Doctorado,34,48365.92,42,13,4.6,2021-07-12
+1064,Recursos Humanos,Semi-Senior,Querétaro,Maestría,36,44806.91,41,5,4.2,2019-05-26
+1065,Finanzas,Senior,Querétaro,Licenciatura,55,68782.68,43,7,1.3,2017-04-14
+1066,Finanzas,Junior,Monterrey,Licenciatura,49,94101.92,43,11,1.4,2023-04-15
+1067,Tecnología,Junior,Puebla,Licenciatura,47,54410.68,43,10,4.4,2016-03-15
+1068,Ventas,Lead,Puebla,Licenciatura,22,89464.19,36,5,1.6,2018-07-31
+1069,Marketing,Semi-Senior,Monterrey,Técnico,32,41266.48,39,12,4.5,2017-04-10
+1070,Tecnología,Senior,CDMX,Licenciatura,43,61481.63,37,6,1.2,2021-04-16
+1071,Ventas,Senior,CDMX,Maestría,36,49012.68,45,5,2.4,2024-01-30
+1072,Ventas,Junior,CDMX,Técnico,59,39429.28,40,11,4.7,2018-08-16
+1073,Ventas,Semi-Senior,Puebla,Licenciatura,23,55964.45,43,11,4.3,2017-12-31
+1074,Finanzas,Junior,Guadalajara,Doctorado,59,47710.78,51,8,1.7,2024-02-02
+1075,Marketing,Junior,Puebla,Licenciatura,32,36375.08,54,4,3.0,2021-10-10
+1076,Tecnología,Lead,Guadalajara,Licenciatura,49,104639.74,49,11,3.2,2016-04-12
+1077,Finanzas,Semi-Senior,Querétaro,Maestría,26,35783.58,40,6,2.0,2024-03-03
+1078,Tecnología,Semi-Senior,Querétaro,Maestría,22,44575.37,53,11,2.2,2023-05-04
+1079,Ventas,Junior,Querétaro,Licenciatura,36,69523.34,42,10,1.7,2016-06-02
+1080,Finanzas,Semi-Senior,CDMX,Técnico,34,37948.77,37,8,1.5,2015-03-10
+1081,Marketing,Semi-Senior,CDMX,Maestría,34,84980.41,46,5,2.9,2021-01-07
+1082,Finanzas,Junior,Monterrey,Licenciatura,34,28222.16,51,7,4.4,2015-10-27
+1083,Ventas,Senior,Querétaro,Licenciatura,47,55821.45,42,6,3.3,2023-10-14
+1084,Tecnología,Junior,Puebla,Maestría,34,43622.94,51,12,4.9,2024-09-11
+1085,Finanzas,Junior,Guadalajara,Maestría,24,30857.5,36,5,3.7,2021-10-30
+1086,Recursos Humanos,Lead,Puebla,Doctorado,23,108868.71,42,11,2.3,2019-08-24
+1087,Recursos Humanos,Lead,CDMX,Licenciatura,39,99284.17,37,3,1.8,2015-12-23
+1088,Finanzas,Junior,Monterrey,Técnico,38,58096.27,35,9,3.7,2016-06-07
+1089,Marketing,Lead,Puebla,Licenciatura,23,70520.75,52,6,3.2,2024-10-25
+1090,Ventas,Semi-Senior,Guadalajara,Maestría,33,43735.89,49,4,1.7,2016-07-07
+1091,Finanzas,Junior,Guadalajara,Licenciatura,25,48743.68,48,6,3.4,2015-09-02
+1092,Marketing,Junior,CDMX,Técnico,29,42760.48,47,7,3.9,2017-03-05
+1093,Recursos Humanos,Junior,Puebla,Maestría,50,53819.46,41,10,2.9,2024-11-30
+1094,Tecnología,Junior,Monterrey,Licenciatura,54,34754.86,35,14,3.2,2024-07-29
+1095,Ventas,Semi-Senior,Puebla,Licenciatura,50,36019.24,54,10,3.4,2022-09-14
+1096,Recursos Humanos,Junior,Querétaro,Maestría,52,41918.08,46,5,1.5,2022-11-12
+1097,Tecnología,Semi-Senior,Monterrey,Licenciatura,25,48103.29,44,11,4.3,2024-03-21
+1098,Ventas,Junior,Guadalajara,Maestría,42,45637.46,47,6,4.1,2016-04-10
+1099,Marketing,Lead,Monterrey,Licenciatura,29,68777.91,51,10,4.2,2019-08-24
+1100,Recursos Humanos,Junior,Guadalajara,Técnico,52,44912.86,42,7,1.4,2016-11-24
+1101,Finanzas,Semi-Senior,Puebla,Licenciatura,32,32368.63,49,9,3.0,2018-08-08
+1102,Tecnología,Semi-Senior,Puebla,Licenciatura,24,34445.32,36,6,1.6,2021-05-16
+1103,Recursos Humanos,Junior,Puebla,Licenciatura,23,25839.24,36,9,4.6,2023-09-14
+1104,Tecnología,Junior,Guadalajara,Técnico,31,51775.58,50,9,1.8,2015-02-12
+1105,Tecnología,Semi-Senior,Querétaro,Licenciatura,42,47076.33,47,11,4.6,2015-01-05
+1106,Finanzas,Junior,Puebla,Maestría,48,41783.81,49,8,2.0,2016-08-28
+1107,Ventas,Senior,Monterrey,Licenciatura,45,75518.24,45,8,2.9,2023-07-02
+1108,Tecnología,Junior,Puebla,Maestría,50,39347.85,47,9,3.6,2015-11-03
+1109,Finanzas,Semi-Senior,CDMX,Doctorado,32,33537.45,44,3,4.6,2017-05-03
+1110,Tecnología,Senior,Guadalajara,Licenciatura,30,54054.32,47,11,2.9,2016-02-22
+1111,Recursos Humanos,Junior,Monterrey,Maestría,39,34815.11,51,9,2.0,2015-12-27
+1112,Ventas,Semi-Senior,Monterrey,Licenciatura,57,49385.13,38,6,1.2,2021-07-23
+1113,Recursos Humanos,Semi-Senior,Puebla,Doctorado,41,37117.2,35,10,1.8,2015-08-12
+1114,Ventas,Semi-Senior,CDMX,Licenciatura,29,74143.15,44,5,4.5,2021-01-19
+1115,Finanzas,Semi-Senior,CDMX,Maestría,49,57698.7,47,10,2.3,2023-05-03
+1116,Recursos Humanos,Semi-Senior,CDMX,Licenciatura,36,61358.55,53,8,3.0,2021-04-23
+1117,Tecnología,Semi-Senior,Puebla,Maestría,23,37817.41,43,7,3.3,2024-01-05
+1118,Recursos Humanos,Junior,Guadalajara,Técnico,43,32464.19,48,3,1.4,2016-01-31
+1119,Tecnología,Semi-Senior,Guadalajara,Maestría,42,64172.84,44,10,1.2,2022-08-20
+1120,Tecnología,Junior,Querétaro,Licenciatura,37,45477.57,39,6,4.9,2024-10-11
+1121,Tecnología,Lead,Monterrey,Licenciatura,46,88736.23,51,5,2.2,2020-01-29
+1122,Finanzas,Junior,Guadalajara,Licenciatura,48,44733.1,48,8,2.6,2023-05-19
+1123,Finanzas,Senior,Querétaro,Licenciatura,30,57354.72,51,8,2.3,2015-08-13
+1124,Ventas,Senior,Monterrey,Licenciatura,22,58957.33,41,5,1.4,2017-06-05
+1125,Finanzas,Senior,Monterrey,Licenciatura,32,54056.94,48,8,3.6,2019-02-05
+1126,Recursos Humanos,Semi-Senior,Monterrey,Licenciatura,50,39116.09,41,14,3.7,2021-10-22
+1127,Finanzas,Junior,Guadalajara,Licenciatura,53,52857.33,43,8,3.6,2020-03-20
+1128,Tecnología,Junior,Monterrey,Licenciatura,32,31449.83,52,10,2.5,2019-02-06
+1129,Recursos Humanos,Junior,Puebla,Licenciatura,26,33758.68,38,10,1.6,2016-12-19
+1130,Tecnología,Junior,Querétaro,Maestría,31,46917.29,49,8,2.2,2020-01-08
+1131,Tecnología,Lead,Puebla,Licenciatura,36,72193.67,46,11,4.8,2019-11-01
+1132,Tecnología,Junior,Puebla,Maestría,34,38386.83,37,8,2.3,2017-08-24
+1133,Recursos Humanos,Lead,Puebla,Maestría,30,93710.87,37,5,3.5,2024-09-11
+1134,Marketing,Semi-Senior,CDMX,Técnico,47,49029.86,42,10,3.4,2015-09-07
+1135,Tecnología,Junior,Puebla,Licenciatura,48,88390.31,46,7,4.3,2021-09-03
+1136,Marketing,Junior,Monterrey,Técnico,40,36810.81,35,9,4.4,2015-01-08
+1137,Marketing,Semi-Senior,Monterrey,Maestría,28,56074.27,46,9,1.2,2019-12-02
+1138,Marketing,Semi-Senior,Guadalajara,Licenciatura,54,41013.52,53,8,2.8,2020-04-20
+1139,Ventas,Junior,Guadalajara,Licenciatura,34,51461.4,49,14,4.8,2021-08-03
+1140,Tecnología,Lead,Guadalajara,Maestría,55,87143.8,51,11,3.8,2015-09-23
+1141,Tecnología,Junior,Puebla,Licenciatura,36,61502.38,49,9,4.8,2015-02-26
+1142,Finanzas,Lead,Guadalajara,Técnico,33,74371.16,50,6,2.7,2021-06-10
+1143,Recursos Humanos,Semi-Senior,CDMX,Licenciatura,27,73907.67,37,9,2.3,2016-09-15
+1144,Recursos Humanos,Senior,Guadalajara,Licenciatura,22,65319.8,40,3,4.1,2021-01-28
+1145,Finanzas,Junior,CDMX,Licenciatura,39,44279.36,44,4,2.8,2017-12-22
+1146,Finanzas,Semi-Senior,Guadalajara,Licenciatura,26,58765.92,54,7,1.2,2021-04-08
+1147,Ventas,Junior,Guadalajara,Licenciatura,34,32981.41,54,10,1.8,2023-12-15
+1148,Finanzas,Lead,Monterrey,Maestría,38,80238.44,51,6,1.5,2020-09-10
+1149,Marketing,Semi-Senior,Guadalajara,Técnico,29,41640.29,42,12,1.1,2016-10-04
+1150,Marketing,Junior,Puebla,Técnico,28,32172.88,40,9,3.3,2018-07-04
+1151,Tecnología,Senior,CDMX,Licenciatura,40,78758.53,47,6,1.9,2015-01-16
+1152,Finanzas,Senior,Querétaro,Licenciatura,56,82588.49,49,7,4.6,2021-05-25
+1153,Recursos Humanos,Semi-Senior,Puebla,Licenciatura,33,42505.36,47,9,1.6,2020-05-22
+1154,Finanzas,Lead,Monterrey,Maestría,46,86823.32,45,8,4.4,2024-11-08
+1155,Finanzas,Junior,Guadalajara,Licenciatura,39,29484.47,46,10,4.4,2024-04-12
+1156,Finanzas,Junior,Guadalajara,Licenciatura,46,33507.85,50,7,2.8,2021-08-31
+1157,Ventas,Semi-Senior,Puebla,Licenciatura,31,56143.75,41,5,3.2,2018-08-07
+1158,Ventas,Senior,CDMX,Maestría,55,50965.1,52,4,3.0,2018-07-26
+1159,Marketing,Semi-Senior,Querétaro,Licenciatura,38,55210.1,48,7,3.2,2015-06-20
+1160,Finanzas,Junior,CDMX,Licenciatura,22,49817.34,43,4,3.4,2020-02-02
+1161,Ventas,Junior,Querétaro,Licenciatura,46,40469.37,50,6,4.1,2023-09-12
+1162,Recursos Humanos,Semi-Senior,CDMX,Licenciatura,50,44720.25,37,13,3.6,2022-04-03
+1163,Recursos Humanos,Semi-Senior,Monterrey,Técnico,48,37820.9,42,7,1.2,2016-10-03
+1164,Finanzas,Junior,Querétaro,Licenciatura,50,50786.83,48,9,1.0,2023-08-17
+1165,Finanzas,Senior,Querétaro,Licenciatura,50,52160.56,45,10,1.0,2016-07-19
+1166,Tecnología,Junior,Monterrey,Licenciatura,36,45685.86,36,9,3.3,2015-03-22
+1167,Ventas,Senior,Monterrey,Licenciatura,49,60467.29,45,3,2.2,2018-04-30
+1168,Tecnología,Semi-Senior,Guadalajara,Maestría,50,55534.78,49,14,2.8,2015-08-19
+1169,Recursos Humanos,Semi-Senior,Querétaro,Licenciatura,50,56256.55,35,10,1.4,2024-05-05
+1170,Tecnología,Lead,Monterrey,Técnico,46,107139.86,54,7,3.3,2022-04-01
+1171,Recursos Humanos,Lead,Monterrey,Técnico,43,93164.53,49,10,1.0,2021-04-22
+1172,Finanzas,Junior,Guadalajara,Maestría,41,69954.93,45,8,2.6,2020-10-19
+1173,Finanzas,Junior,CDMX,Maestría,44,51271.28,49,11,4.6,2016-11-30
+1174,Recursos Humanos,Senior,CDMX,Técnico,24,58929.63,48,6,4.9,2017-07-30
+1175,Tecnología,Semi-Senior,Querétaro,Licenciatura,27,52578.59,54,6,3.6,2018-07-27
+1176,Ventas,Lead,Querétaro,Licenciatura,55,83859.52,41,6,4.4,2020-07-15
+1177,Finanzas,Junior,Querétaro,Licenciatura,44,40758.63,44,9,3.9,2015-01-24
+1178,Ventas,Senior,Querétaro,Maestría,29,70333.83,48,11,2.6,2023-08-24
+1179,Marketing,Semi-Senior,Puebla,Maestría,22,28298.85,37,6,4.0,2024-02-02
+1180,Ventas,Senior,CDMX,Maestría,45,76098.43,49,7,2.5,2019-08-23
+1181,Ventas,Senior,Querétaro,Licenciatura,34,55767.0,47,7,1.2,2023-01-01
+1182,Tecnología,Semi-Senior,Puebla,Licenciatura,40,47312.29,50,9,3.7,2015-09-04
+1183,Tecnología,Lead,Guadalajara,Licenciatura,44,103831.96,37,7,4.4,2021-04-26
+1184,Marketing,Lead,Puebla,Técnico,38,96499.24,48,7,3.2,2015-02-19
+1185,Tecnología,Senior,Monterrey,Licenciatura,50,64445.69,35,5,2.3,2024-04-13
+1186,Ventas,Senior,Puebla,Licenciatura,55,54841.31,38,12,2.4,2022-09-08
+1187,Finanzas,Junior,Guadalajara,Técnico,37,40226.21,42,4,2.4,2019-07-21
+1188,Tecnología,Senior,CDMX,Técnico,28,52638.55,48,8,3.3,2017-10-30
+1189,Finanzas,Semi-Senior,Monterrey,Licenciatura,41,69248.62,38,8,1.3,2021-01-06
+1190,Marketing,Lead,Monterrey,Maestría,59,73504.64,38,6,2.1,2022-11-21
+1191,Finanzas,Semi-Senior,Querétaro,Licenciatura,39,64104.86,38,5,4.6,2024-09-06
+1192,Tecnología,Senior,CDMX,Maestría,41,64151.12,36,11,4.9,2015-09-03
+1193,Tecnología,Junior,Puebla,Licenciatura,58,55828.32,44,7,1.2,2017-04-29
+1194,Ventas,Junior,Puebla,Maestría,54,37049.18,52,6,3.0,2017-01-23
+1195,Finanzas,Junior,Puebla,Doctorado,35,45206.13,49,7,1.3,2015-04-13
+1196,Recursos Humanos,Junior,Guadalajara,Licenciatura,23,26671.51,48,8,2.3,2016-06-07
+1197,Marketing,Senior,Querétaro,Maestría,36,44926.04,50,6,4.4,2023-08-07
+1198,Finanzas,Semi-Senior,Monterrey,Licenciatura,42,45444.2,41,5,4.7,2015-08-09
+1199,Ventas,Lead,Guadalajara,Licenciatura,52,97698.66,51,9,4.7,2022-06-10
+1200,Ventas,Junior,Guadalajara,Técnico,23,31980.84,38,7,4.0,2015-12-22
+1201,Finanzas,Semi-Senior,Monterrey,Maestría,37,46622.76,48,12,3.9,2017-05-17
+1202,Tecnología,Semi-Senior,Puebla,Técnico,27,45558.42,38,4,2.8,2021-12-10
+1203,Tecnología,Junior,Guadalajara,Licenciatura,59,40918.31,51,7,1.7,2023-02-02
+1204,Recursos Humanos,Junior,Monterrey,Licenciatura,58,31441.57,43,4,4.0,2024-01-28
+1205,Ventas,Junior,Monterrey,Licenciatura,42,48812.56,47,13,1.9,2024-10-11
+1206,Tecnología,Semi-Senior,Querétaro,Maestría,25,27980.94,44,6,1.3,2022-07-22
+1207,Recursos Humanos,Junior,Puebla,Licenciatura,39,43235.73,47,11,1.3,2019-04-06
+1208,Ventas,Junior,Querétaro,Maestría,23,21533.05,52,9,2.6,2023-01-15
+1209,Tecnología,Lead,CDMX,Maestría,54,100205.78,48,10,2.7,2019-12-31
+1210,Recursos Humanos,Semi-Senior,Querétaro,Técnico,29,35391.48,41,15,3.3,2021-04-22
+1211,Tecnología,Junior,CDMX,Licenciatura,44,58930.09,49,8,2.8,2021-11-09
+1212,Recursos Humanos,Junior,Querétaro,Licenciatura,34,33647.92,51,9,4.4,2022-01-21
+1213,Recursos Humanos,Junior,Querétaro,Licenciatura,45,56975.31,35,8,4.9,2024-10-30
+1214,Tecnología,Junior,Monterrey,Licenciatura,53,63191.24,41,8,4.6,2018-02-19
+1215,Marketing,Senior,Monterrey,Licenciatura,22,45201.56,39,12,3.1,2022-06-17
+1216,Marketing,Semi-Senior,Guadalajara,Licenciatura,44,56315.54,42,8,2.6,2020-04-14
+1217,Tecnología,Junior,Querétaro,Técnico,42,76708.15,47,8,3.6,2015-10-19
+1218,Ventas,Junior,Monterrey,Licenciatura,23,36686.91,46,9,1.6,2022-06-06
+1219,Recursos Humanos,Senior,Puebla,Licenciatura,41,121302.19,38,10,4.2,2024-06-04
+1220,Tecnología,Junior,Querétaro,Maestría,42,37091.52,43,12,2.8,2015-06-20
+1221,Finanzas,Semi-Senior,Puebla,Técnico,26,42824.84,54,6,3.1,2021-11-18
+1222,Recursos Humanos,Lead,CDMX,Licenciatura,49,97023.85,53,10,5.0,2017-03-09
+1223,Finanzas,Junior,Monterrey,Licenciatura,52,39153.69,35,4,4.4,2023-11-27
+1224,Tecnología,Senior,Puebla,Maestría,32,73517.02,42,12,3.7,2022-05-12
+1225,Recursos Humanos,Senior,Querétaro,Licenciatura,36,49112.76,40,3,1.4,2023-06-09
+1226,Ventas,Junior,Puebla,Licenciatura,27,59749.47,45,5,3.0,2018-01-31
+1227,Finanzas,Junior,Monterrey,Maestría,50,41517.73,43,7,3.0,2024-07-29
+1228,Ventas,Junior,Puebla,Licenciatura,43,38806.01,36,6,2.8,2017-09-19
+1229,Finanzas,Lead,Puebla,Doctorado,28,75400.62,44,16,3.3,2022-06-05
+1230,Marketing,Senior,CDMX,Licenciatura,31,59630.2,48,11,4.1,2020-08-14
+1231,Finanzas,Lead,Puebla,Licenciatura,58,108228.28,46,12,4.0,2024-02-02
+1232,Marketing,Semi-Senior,CDMX,Maestría,51,109089.25,48,5,3.1,2019-07-25
+1233,Tecnología,Junior,Monterrey,Licenciatura,54,36015.68,41,15,3.8,2020-12-01
+1234,Marketing,Senior,Guadalajara,Licenciatura,39,45802.3,49,12,2.6,2022-01-05
+1235,Ventas,Semi-Senior,Guadalajara,Técnico,51,55751.2,54,9,2.8,2015-06-19
+1236,Recursos Humanos,Senior,Querétaro,Maestría,36,50958.21,37,10,2.5,2015-12-22
+1237,Marketing,Junior,Monterrey,Licenciatura,55,36194.49,53,11,4.5,2017-10-11
+1238,Finanzas,Lead,CDMX,Técnico,43,74191.97,38,6,2.2,2022-02-27
+1239,Recursos Humanos,Junior,Guadalajara,Licenciatura,41,35262.96,40,9,4.8,2021-04-07
+1240,Ventas,Junior,Puebla,Técnico,53,41985.04,46,4,4.3,2019-06-23
+1241,Ventas,Semi-Senior,CDMX,Licenciatura,48,60962.54,53,6,1.4,2022-09-14
+1242,Finanzas,Senior,Puebla,Licenciatura,52,92610.41,51,10,3.1,2019-01-04
+1243,Finanzas,Semi-Senior,Puebla,Licenciatura,30,61519.01,48,6,2.3,2022-01-07
+1244,Tecnología,Semi-Senior,Querétaro,Licenciatura,41,57222.68,43,8,3.2,2020-09-14
+1245,Tecnología,Junior,CDMX,Licenciatura,26,31136.06,44,8,4.9,2016-02-10
+1246,Ventas,Semi-Senior,CDMX,Maestría,43,70663.25,44,8,1.5,2019-03-09
+1247,Tecnología,Lead,Guadalajara,Maestría,30,88421.22,50,5,2.0,2019-06-01
+1248,Finanzas,Junior,Puebla,Técnico,29,34727.92,51,4,2.6,2015-04-27
+1249,Recursos Humanos,Semi-Senior,CDMX,Técnico,38,89432.68,46,9,2.2,2019-02-18
+1250,Tecnología,Semi-Senior,Monterrey,Licenciatura,48,64840.05,35,3,4.1,2024-05-07
+1251,Marketing,Semi-Senior,Guadalajara,Licenciatura,31,52220.5,47,5,3.6,2020-10-30
+1252,Recursos Humanos,Senior,Guadalajara,Licenciatura,49,113745.32,40,8,4.4,2017-06-15
+1253,Ventas,Semi-Senior,Guadalajara,Licenciatura,52,128668.39,46,5,1.2,2020-03-07
+1254,Finanzas,Senior,Monterrey,Maestría,35,51933.18,48,6,2.2,2018-11-01
+1255,Finanzas,Junior,Puebla,Licenciatura,38,32157.78,37,2,3.1,2024-08-25
+1256,Ventas,Semi-Senior,Querétaro,Licenciatura,35,64587.86,41,7,4.2,2018-05-21
+1257,Tecnología,Junior,Puebla,Licenciatura,35,40941.96,36,4,4.2,2024-07-09
+1258,Ventas,Senior,Guadalajara,Maestría,46,69786.72,49,11,4.0,2022-07-03
+1259,Marketing,Senior,CDMX,Licenciatura,44,66609.24,47,8,1.8,2020-06-15
+1260,Finanzas,Senior,Puebla,Maestría,40,80875.85,51,7,4.4,2020-08-04
+1261,Tecnología,Semi-Senior,CDMX,Licenciatura,53,40534.76,40,9,4.6,2020-02-29
+1262,Tecnología,Junior,Querétaro,Licenciatura,27,23663.91,38,8,4.8,2017-12-20
+1263,Marketing,Semi-Senior,Puebla,Maestría,43,40441.97,41,8,1.7,2015-08-26
+1264,Ventas,Senior,Puebla,Maestría,34,65836.02,47,7,1.3,2016-08-02
+1265,Tecnología,Semi-Senior,Puebla,Maestría,55,53507.46,49,11,3.7,2019-02-23
+1266,Tecnología,Junior,Monterrey,Maestría,43,46602.95,51,8,3.6,2016-09-03
+1267,Ventas,Semi-Senior,Puebla,Licenciatura,48,110171.52,54,9,1.1,2015-11-13
+1268,Marketing,Lead,Puebla,Licenciatura,58,87323.13,38,6,3.6,2018-11-05
+1269,Recursos Humanos,Junior,Monterrey,Licenciatura,48,41093.75,37,12,2.1,2021-09-07
+1270,Tecnología,Semi-Senior,Querétaro,Licenciatura,53,68606.99,43,4,3.6,2019-08-05
+1271,Recursos Humanos,Senior,Monterrey,Maestría,23,48333.47,50,12,1.1,2017-01-30
+1272,Recursos Humanos,Junior,CDMX,Licenciatura,57,37057.41,47,10,3.6,2023-11-10
+1273,Marketing,Junior,Puebla,Licenciatura,47,67948.6,45,5,4.7,2015-09-20
+1274,Finanzas,Senior,CDMX,Licenciatura,45,71494.39,50,10,1.4,2017-09-26
+1275,Marketing,Junior,CDMX,Maestría,39,40188.86,38,6,2.9,2023-03-26
+1276,Finanzas,Junior,CDMX,Licenciatura,52,37309.08,53,12,1.5,2021-07-03
+1277,Finanzas,Semi-Senior,Monterrey,Licenciatura,38,55778.06,37,5,3.0,2024-12-04
+1278,Ventas,Junior,Guadalajara,Licenciatura,29,34525.74,47,11,4.0,2018-08-20
+1279,Marketing,Senior,Puebla,Licenciatura,55,64991.7,35,11,1.0,2021-06-03
+1280,Marketing,Semi-Senior,Monterrey,Técnico,56,51382.72,46,9,2.9,2021-08-27
+1281,Ventas,Semi-Senior,Querétaro,Maestría,22,56936.75,46,6,3.6,2022-05-04
+1282,Marketing,Semi-Senior,CDMX,Técnico,59,81086.43,46,6,3.5,2023-05-15
+1283,Finanzas,Junior,Querétaro,Licenciatura,29,42490.65,53,11,3.1,2021-03-14
+1284,Marketing,Junior,Querétaro,Maestría,56,46166.83,54,4,2.9,2015-09-10
+1285,Recursos Humanos,Junior,Puebla,Maestría,48,45994.25,40,7,4.8,2022-11-08
+1286,Ventas,Semi-Senior,CDMX,Licenciatura,51,49147.47,40,7,1.8,2020-03-13
+1287,Ventas,Junior,Monterrey,Licenciatura,38,43892.4,52,9,1.2,2018-10-09
+1288,Ventas,Semi-Senior,Guadalajara,Doctorado,28,28204.15,54,5,4.2,2023-07-25
+1289,Finanzas,Senior,Guadalajara,Técnico,27,66275.89,49,2,3.7,2018-04-25
+1290,Recursos Humanos,Semi-Senior,Puebla,Maestría,45,34341.03,48,7,2.7,2024-09-13
+1291,Recursos Humanos,Semi-Senior,CDMX,Maestría,59,56520.84,41,10,4.7,2018-01-10
+1292,Ventas,Senior,Guadalajara,Doctorado,33,64616.34,49,6,2.9,2021-12-19
+1293,Ventas,Junior,Puebla,Licenciatura,44,35659.31,51,6,3.7,2024-06-11
+1294,Ventas,Senior,Monterrey,Licenciatura,35,81252.36,38,8,3.6,2019-06-30
+1295,Ventas,Semi-Senior,Monterrey,Maestría,50,53247.97,35,6,4.4,2021-10-21
+1296,Marketing,Junior,Puebla,Licenciatura,34,35021.71,48,4,3.0,2024-03-30
+1297,Tecnología,Semi-Senior,Querétaro,Licenciatura,36,48141.23,40,17,2.6,2022-06-07
+1298,Marketing,Junior,Guadalajara,Licenciatura,23,45812.74,41,10,4.7,2019-03-16
+1299,Finanzas,Junior,CDMX,Licenciatura,23,31954.14,46,10,3.2,2024-03-30
+1300,Recursos Humanos,Lead,Puebla,Licenciatura,58,77907.02,38,9,2.3,2016-06-16
+1301,Ventas,Lead,CDMX,Técnico,42,76496.82,42,8,3.2,2020-01-18
+1302,Ventas,Senior,Puebla,Maestría,22,61743.39,39,10,1.7,2021-11-17
+1303,Tecnología,Junior,Monterrey,Técnico,24,22899.53,35,8,3.4,2023-02-07
+1304,Ventas,Junior,Guadalajara,Maestría,38,50274.86,46,3,4.2,2023-12-17
+1305,Ventas,Senior,Querétaro,Maestría,49,104700.75,48,8,3.3,2020-12-25
+1306,Finanzas,Senior,Puebla,Licenciatura,22,44361.21,49,11,1.1,2017-01-05
+1307,Recursos Humanos,Senior,CDMX,Maestría,38,63024.2,54,11,1.1,2019-05-23
+1308,Tecnología,Junior,Guadalajara,Licenciatura,59,46217.72,50,8,2.8,2024-08-26
+1309,Marketing,Junior,CDMX,Licenciatura,55,54494.03,46,6,3.7,2021-01-01
+1310,Recursos Humanos,Lead,Guadalajara,Licenciatura,36,69905.04,40,7,3.6,2015-08-28
+1311,Finanzas,Junior,Monterrey,Técnico,54,49464.45,37,9,2.4,2017-03-03
+1312,Finanzas,Junior,Puebla,Licenciatura,48,72566.87,35,5,2.2,2022-12-18
+1313,Marketing,Semi-Senior,Monterrey,Maestría,45,42240.06,44,10,4.8,2019-03-06
+1314,Ventas,Senior,Monterrey,Técnico,24,56564.1,38,11,4.6,2021-11-08
+1315,Ventas,Semi-Senior,Querétaro,Maestría,52,53865.07,49,8,1.3,2020-01-14
+1316,Tecnología,Junior,CDMX,Licenciatura,36,38318.58,43,9,1.3,2020-09-21
+1317,Tecnología,Semi-Senior,CDMX,Maestría,46,67630.16,50,8,4.1,2021-08-28
+1318,Marketing,Junior,Guadalajara,Técnico,57,44026.33,43,7,3.5,2019-06-17
+1319,Ventas,Semi-Senior,Monterrey,Doctorado,53,55360.62,41,7,4.7,2016-07-15
+1320,Tecnología,Junior,Guadalajara,Maestría,27,23272.87,52,8,4.9,2018-08-12
+1321,Tecnología,Junior,Monterrey,Técnico,39,48764.64,49,11,1.0,2020-11-27
+1322,Finanzas,Senior,Puebla,Licenciatura,58,86775.77,47,10,1.5,2017-02-12
+1323,Ventas,Semi-Senior,CDMX,Técnico,58,72591.7,50,9,2.7,2017-03-31
+1324,Recursos Humanos,Junior,Monterrey,Licenciatura,42,63965.86,48,13,3.7,2022-01-07
+1325,Tecnología,Junior,CDMX,Maestría,40,65612.78,44,5,1.9,2020-12-20
+1326,Marketing,Senior,Puebla,Maestría,45,54590.73,52,7,4.6,2020-10-21
+1327,Finanzas,Semi-Senior,Puebla,Maestría,42,37791.0,51,12,2.6,2022-07-31
+1328,Finanzas,Junior,CDMX,Licenciatura,22,28975.34,50,10,1.6,2016-10-21
+1329,Finanzas,Junior,Guadalajara,Doctorado,59,65605.91,45,8,4.8,2019-07-31
+1330,Ventas,Junior,Guadalajara,Licenciatura,41,44799.68,52,7,3.8,2022-08-06
+1331,Recursos Humanos,Semi-Senior,Querétaro,Licenciatura,55,74128.26,35,12,3.8,2024-05-13
+1332,Tecnología,Lead,Guadalajara,Licenciatura,31,79789.09,48,7,2.4,2022-05-18
+1333,Finanzas,Senior,Monterrey,Licenciatura,50,68114.68,45,7,1.9,2023-12-16
+1334,Tecnología,Junior,Guadalajara,Licenciatura,28,33266.98,48,11,1.2,2023-01-14
+1335,Tecnología,Junior,Monterrey,Licenciatura,57,52509.38,47,8,1.4,2016-09-15
+1336,Ventas,Lead,CDMX,Maestría,32,91042.57,39,14,1.1,2016-09-22
+1337,Recursos Humanos,Senior,Puebla,Maestría,34,52707.87,45,8,4.6,2022-03-13
+1338,Tecnología,Lead,CDMX,Licenciatura,56,90234.15,45,9,4.0,2023-01-26
+1339,Tecnología,Semi-Senior,Puebla,Licenciatura,44,72773.85,37,7,2.7,2023-03-05
+1340,Finanzas,Semi-Senior,Puebla,Licenciatura,22,34467.36,44,8,2.1,2023-10-06
+1341,Marketing,Semi-Senior,Guadalajara,Técnico,41,58725.81,52,4,3.5,2016-06-24
+1342,Marketing,Semi-Senior,Puebla,Licenciatura,38,52871.85,42,7,2.9,2023-05-24
+1343,Finanzas,Junior,Guadalajara,Licenciatura,45,33736.79,37,8,1.7,2023-02-05
+1344,Recursos Humanos,Senior,Guadalajara,Maestría,28,63959.54,48,4,3.3,2016-11-05
+1345,Marketing,Junior,Querétaro,Maestría,43,53464.33,38,1,4.9,2021-05-03
+1346,Tecnología,Junior,Puebla,Doctorado,49,35192.14,35,3,3.8,2017-09-23
+1347,Marketing,Junior,Guadalajara,Maestría,25,65056.26,49,5,2.2,2021-03-03
+1348,Finanzas,Junior,CDMX,Maestría,28,23252.22,41,3,1.9,2016-02-05
+1349,Recursos Humanos,Junior,Puebla,Licenciatura,32,23378.09,52,12,4.8,2018-09-06
+1350,Marketing,Senior,Puebla,Maestría,22,43451.26,38,13,1.8,2023-04-17
+1351,Marketing,Junior,Guadalajara,Maestría,39,48305.38,37,4,2.2,2022-10-06
+1352,Finanzas,Junior,Querétaro,Licenciatura,41,48409.74,36,7,2.1,2024-05-02
+1353,Marketing,Junior,Puebla,Técnico,35,32825.31,35,5,4.9,2016-07-31
+1354,Recursos Humanos,Junior,Puebla,Técnico,38,30773.42,43,13,3.9,2017-02-23
+1355,Tecnología,Senior,CDMX,Licenciatura,27,47633.56,48,9,3.6,2022-11-03
+1356,Finanzas,Lead,Querétaro,Maestría,44,66320.16,42,12,1.5,2024-12-10
+1357,Recursos Humanos,Semi-Senior,Querétaro,Licenciatura,33,36268.22,53,14,2.6,2019-12-09
+1358,Recursos Humanos,Semi-Senior,CDMX,Técnico,35,45369.34,35,13,2.9,2015-02-10
+1359,Ventas,Lead,CDMX,Licenciatura,26,80172.33,35,6,2.4,2024-08-10
+1360,Recursos Humanos,Junior,Guadalajara,Maestría,22,23819.53,46,9,2.5,2018-05-30
+1361,Finanzas,Semi-Senior,Querétaro,Licenciatura,54,57398.94,48,10,4.9,2022-09-22
+1362,Ventas,Lead,Monterrey,Maestría,46,96935.47,53,6,1.3,2021-06-16
+1363,Tecnología,Semi-Senior,Guadalajara,Licenciatura,32,36835.0,43,10,3.7,2023-08-23
+1364,Recursos Humanos,Junior,CDMX,Licenciatura,47,32566.66,42,9,4.7,2020-10-24
+1365,Ventas,Semi-Senior,CDMX,Licenciatura,41,57584.21,39,6,4.3,2019-10-27
+1366,Ventas,Junior,Querétaro,Licenciatura,40,49856.71,40,6,1.3,2023-12-06
+1367,Marketing,Semi-Senior,Querétaro,Técnico,39,82706.78,42,11,5.0,2016-07-08
+1368,Ventas,Lead,Querétaro,Técnico,47,92316.26,47,7,3.5,2023-04-19
+1369,Recursos Humanos,Semi-Senior,Monterrey,Licenciatura,44,54758.11,42,8,2.4,2019-06-06
+1370,Finanzas,Lead,Querétaro,Licenciatura,22,68205.82,54,3,3.2,2022-02-17
+1371,Recursos Humanos,Junior,CDMX,Licenciatura,52,41869.49,36,8,2.3,2019-06-15
+1372,Tecnología,Junior,CDMX,Licenciatura,47,42907.95,53,7,1.5,2019-03-15
+1373,Ventas,Semi-Senior,Guadalajara,Maestría,53,54410.48,39,10,3.6,2017-05-19
+1374,Tecnología,Junior,Monterrey,Licenciatura,32,37843.89,46,9,1.8,2022-04-15
+1375,Finanzas,Semi-Senior,Monterrey,Licenciatura,59,57347.21,45,11,2.9,2023-11-16
+1376,Finanzas,Senior,Puebla,Maestría,28,55936.85,35,9,3.7,2015-09-01
+1377,Finanzas,Semi-Senior,Guadalajara,Técnico,52,70638.81,36,8,1.9,2017-01-03
+1378,Tecnología,Junior,Querétaro,Técnico,52,66744.3,52,6,1.4,2019-02-28
+1379,Marketing,Semi-Senior,Guadalajara,Maestría,45,52813.25,52,13,3.0,2015-10-13
+1380,Finanzas,Senior,Monterrey,Licenciatura,49,66177.74,44,7,4.6,2016-07-24
+1381,Tecnología,Junior,Guadalajara,Doctorado,25,22232.17,38,14,4.4,2016-06-26
+1382,Marketing,Junior,CDMX,Licenciatura,33,27717.36,48,9,4.1,2018-01-06
+1383,Marketing,Junior,Puebla,Licenciatura,42,33828.03,39,10,4.3,2024-08-17
+1384,Recursos Humanos,Senior,Puebla,Maestría,40,56497.58,47,9,3.0,2019-10-15
+1385,Marketing,Semi-Senior,Querétaro,Licenciatura,54,42761.3,39,13,1.4,2019-09-07
+1386,Tecnología,Lead,Guadalajara,Maestría,57,96449.03,42,13,3.4,2021-04-14
+1387,Tecnología,Senior,Querétaro,Maestría,53,58239.02,49,9,4.5,2019-05-31
+1388,Marketing,Semi-Senior,Guadalajara,Maestría,23,28778.31,37,7,4.8,2015-01-11
+1389,Ventas,Junior,Querétaro,Maestría,48,47188.23,48,5,1.7,2016-09-08
+1390,Tecnología,Semi-Senior,Querétaro,Licenciatura,44,43724.53,54,10,4.8,2022-02-12
+1391,Finanzas,Junior,Monterrey,Licenciatura,42,50809.67,48,8,4.8,2021-08-29
+1392,Tecnología,Senior,Guadalajara,Técnico,30,47444.41,36,9,2.0,2018-11-25
+1393,Finanzas,Lead,Guadalajara,Maestría,44,82997.24,47,7,3.2,2024-03-12
+1394,Tecnología,Lead,Guadalajara,Licenciatura,41,67626.2,37,11,4.2,2016-08-14
+1395,Ventas,Lead,Puebla,Licenciatura,24,79201.87,49,6,2.4,2016-04-10
+1396,Finanzas,Junior,Guadalajara,Licenciatura,41,54809.98,52,10,3.5,2019-08-28
+1397,Recursos Humanos,Senior,Querétaro,Licenciatura,22,45300.02,47,2,3.7,2024-08-24
+1398,Marketing,Semi-Senior,Querétaro,Maestría,26,33644.93,53,8,3.3,2024-07-20
+1399,Ventas,Senior,Querétaro,Doctorado,50,70184.31,47,5,1.6,2023-05-30
+1400,Marketing,Senior,Guadalajara,Licenciatura,56,91822.62,41,4,2.6,2023-05-07
+1401,Marketing,Junior,Monterrey,Licenciatura,58,56123.93,50,9,3.4,2015-06-23
+1402,Finanzas,Lead,Guadalajara,Maestría,34,100118.52,47,16,4.7,2020-08-18
+1403,Tecnología,Junior,Guadalajara,Licenciatura,59,62557.38,45,5,1.1,2021-01-28
+1404,Marketing,Semi-Senior,Querétaro,Doctorado,41,31574.98,37,9,1.3,2019-10-11
+1405,Marketing,Semi-Senior,Guadalajara,Maestría,48,45137.7,47,5,4.9,2021-02-03
+1406,Recursos Humanos,Junior,Monterrey,Técnico,29,36294.31,38,9,3.1,2017-11-25
+1407,Tecnología,Semi-Senior,Monterrey,Doctorado,54,58893.25,42,3,2.3,2016-09-11
+1408,Tecnología,Junior,Guadalajara,Licenciatura,25,34057.25,50,9,1.7,2016-08-30
+1409,Recursos Humanos,Junior,Guadalajara,Licenciatura,38,77043.08,51,7,2.9,2020-09-22
+1410,Ventas,Junior,CDMX,Maestría,58,79063.14,48,12,1.1,2017-03-10
+1411,Ventas,Semi-Senior,Monterrey,Maestría,33,70475.09,35,15,1.3,2020-01-24
+1412,Tecnología,Junior,Monterrey,Licenciatura,31,39757.82,48,12,3.2,2024-09-15
+1413,Ventas,Senior,CDMX,Licenciatura,59,58663.34,53,7,2.1,2017-11-18
+1414,Tecnología,Semi-Senior,CDMX,Licenciatura,46,71920.63,48,7,4.4,2016-02-21
+1415,Recursos Humanos,Lead,Puebla,Maestría,27,73978.81,35,7,4.8,2017-03-06
+1416,Marketing,Junior,Querétaro,Licenciatura,29,54964.54,46,6,2.3,2024-06-03
+1417,Ventas,Junior,Guadalajara,Maestría,46,39951.85,38,10,1.8,2017-03-30
+1418,Marketing,Semi-Senior,Monterrey,Licenciatura,53,58178.38,50,6,2.5,2016-09-01
+1419,Ventas,Semi-Senior,Guadalajara,Maestría,48,61995.45,43,9,3.2,2019-09-21
+1420,Marketing,Lead,CDMX,Licenciatura,45,112225.16,54,5,2.6,2015-01-13
+1421,Finanzas,Semi-Senior,Guadalajara,Técnico,57,51630.36,49,7,4.1,2018-08-28
+1422,Tecnología,Semi-Senior,CDMX,Licenciatura,36,40028.23,42,2,3.9,2019-01-30
+1423,Tecnología,Semi-Senior,Querétaro,Doctorado,56,69601.04,40,11,2.5,2023-04-01
+1424,Tecnología,Junior,CDMX,Maestría,44,38808.23,49,4,3.0,2017-11-21
+1425,Tecnología,Semi-Senior,Puebla,Licenciatura,56,59633.58,53,11,2.9,2020-01-23
+1426,Finanzas,Junior,Monterrey,Maestría,43,37465.78,45,3,2.8,2019-08-05
+1427,Marketing,Junior,CDMX,Técnico,44,39195.7,40,8,2.4,2023-06-02
+1428,Finanzas,Semi-Senior,Monterrey,Licenciatura,32,41264.12,41,6,2.9,2021-09-11
+1429,Finanzas,Junior,Querétaro,Licenciatura,28,29705.27,53,8,3.0,2017-05-25
+1430,Tecnología,Lead,Monterrey,Maestría,33,94398.51,35,9,1.4,2023-03-06
+1431,Recursos Humanos,Junior,Puebla,Licenciatura,27,29237.35,43,10,4.2,2020-08-15
+1432,Tecnología,Senior,CDMX,Maestría,31,68332.07,36,8,2.0,2016-12-06
+1433,Recursos Humanos,Junior,Puebla,Licenciatura,28,44823.58,43,11,3.1,2019-10-30
+1434,Recursos Humanos,Semi-Senior,CDMX,Licenciatura,23,43411.58,35,11,4.2,2022-01-06
+1435,Ventas,Senior,CDMX,Licenciatura,39,59190.96,42,5,3.0,2022-12-21
+1436,Tecnología,Semi-Senior,Querétaro,Maestría,46,50335.63,50,7,2.0,2017-02-03
+1437,Recursos Humanos,Semi-Senior,CDMX,Técnico,22,50891.89,39,4,4.5,2020-02-01
+1438,Recursos Humanos,Junior,Guadalajara,Técnico,31,79588.59,50,7,3.5,2016-05-22
+1439,Finanzas,Junior,CDMX,Maestría,26,54767.18,36,9,3.3,2016-11-12
+1440,Recursos Humanos,Junior,Guadalajara,Licenciatura,28,30844.11,47,10,3.3,2017-09-29
+1441,Tecnología,Semi-Senior,CDMX,Técnico,33,57917.28,46,9,1.8,2019-01-14
+1442,Marketing,Semi-Senior,Monterrey,Maestría,42,69291.23,43,9,2.0,2015-10-10
+1443,Ventas,Lead,CDMX,Maestría,49,92712.67,38,6,2.8,2015-02-13
+1444,Marketing,Junior,Querétaro,Doctorado,54,40494.84,37,12,2.2,2022-04-30
+1445,Ventas,Lead,CDMX,Maestría,57,123364.73,47,10,2.8,2018-06-09
+1446,Marketing,Junior,Querétaro,Maestría,48,34326.94,44,6,2.6,2018-02-19
+1447,Marketing,Junior,Querétaro,Licenciatura,31,30358.73,53,3,1.8,2015-07-13
+1448,Recursos Humanos,Junior,Guadalajara,Licenciatura,29,30447.11,44,11,2.7,2015-11-03
+1449,Tecnología,Senior,Monterrey,Maestría,48,69528.18,35,15,1.4,2016-04-16
+1450,Finanzas,Junior,Guadalajara,Maestría,43,29878.89,46,7,1.7,2021-09-27
+1451,Ventas,Junior,Querétaro,Licenciatura,38,61589.21,51,9,1.1,2017-04-24
+1452,Marketing,Lead,Puebla,Maestría,31,68239.76,44,9,4.7,2015-11-22
+1453,Finanzas,Lead,Puebla,Maestría,53,69487.65,42,9,4.4,2022-05-21
+1454,Recursos Humanos,Junior,Querétaro,Maestría,33,29048.69,42,11,1.6,2021-08-10
+1455,Recursos Humanos,Semi-Senior,CDMX,Licenciatura,51,63974.29,49,10,1.1,2024-04-28
+1456,Ventas,Senior,CDMX,Técnico,27,48016.63,37,7,3.3,2019-03-26
+1457,Recursos Humanos,Semi-Senior,Querétaro,Técnico,53,46241.91,54,8,2.6,2015-08-29
+1458,Marketing,Junior,Guadalajara,Doctorado,33,28793.0,48,5,1.9,2022-11-06
+1459,Finanzas,Senior,Monterrey,Licenciatura,23,54166.35,39,5,2.2,2020-01-03
+1460,Finanzas,Junior,Guadalajara,Licenciatura,43,37592.06,41,3,3.5,2023-11-15
+1461,Finanzas,Semi-Senior,CDMX,Técnico,34,57505.28,40,5,2.8,2022-04-14
+1462,Ventas,Senior,Querétaro,Licenciatura,58,90217.94,51,5,1.8,2022-08-09
+1463,Tecnología,Semi-Senior,Puebla,Técnico,50,68867.78,41,9,3.6,2024-09-24
+1464,Recursos Humanos,Junior,Guadalajara,Licenciatura,35,23266.05,50,6,4.5,2022-08-06
+1465,Finanzas,Semi-Senior,CDMX,Técnico,41,42710.13,43,9,2.8,2015-04-21
+1466,Finanzas,Semi-Senior,Guadalajara,Licenciatura,32,87334.69,45,7,3.2,2016-01-03
+1467,Ventas,Junior,CDMX,Licenciatura,26,46878.18,44,14,1.3,2019-02-01
+1468,Finanzas,Senior,CDMX,Maestría,48,54701.23,54,8,4.5,2024-05-03
+1469,Ventas,Junior,CDMX,Maestría,49,40733.56,53,9,4.7,2017-11-23
+1470,Finanzas,Junior,CDMX,Maestría,37,57651.17,37,8,4.2,2022-01-07
+1471,Marketing,Junior,Guadalajara,Técnico,26,47369.33,44,6,2.7,2018-03-30
+1472,Finanzas,Semi-Senior,Querétaro,Licenciatura,42,65415.62,39,5,1.8,2021-01-06
+1473,Ventas,Junior,CDMX,Licenciatura,22,22104.75,48,7,2.4,2016-09-10
+1474,Finanzas,Senior,Guadalajara,Doctorado,39,67687.95,41,7,3.4,2018-11-16
+1475,Ventas,Junior,Monterrey,Doctorado,36,33997.41,49,10,2.2,2022-08-29
+1476,Marketing,Senior,Querétaro,Licenciatura,24,40233.97,48,5,2.3,2016-07-04
+1477,Recursos Humanos,Junior,Puebla,Maestría,32,38064.66,41,10,2.1,2021-03-16
+1478,Tecnología,Junior,CDMX,Maestría,22,37415.17,40,11,2.2,2017-02-20
+1479,Tecnología,Junior,Guadalajara,Licenciatura,55,29640.4,41,5,1.3,2022-12-31
+1480,Tecnología,Semi-Senior,Guadalajara,Licenciatura,49,53115.59,48,6,3.9,2023-03-18
+1481,Ventas,Lead,Monterrey,Maestría,53,99003.04,42,4,4.7,2017-06-22
+1482,Tecnología,Senior,Querétaro,Licenciatura,38,73214.29,52,12,4.7,2019-12-11
+1483,Tecnología,Junior,Puebla,Licenciatura,59,48005.22,51,10,1.7,2019-01-28
+1484,Finanzas,Lead,Guadalajara,Licenciatura,55,117435.52,48,8,1.9,2018-01-07
+1485,Marketing,Junior,Monterrey,Licenciatura,48,67658.28,39,7,4.0,2022-10-03
+1486,Ventas,Junior,Querétaro,Maestría,55,39004.37,52,8,3.5,2017-02-09
+1487,Marketing,Semi-Senior,Puebla,Maestría,34,49773.59,47,9,3.2,2015-11-20
+1488,Tecnología,Semi-Senior,Puebla,Licenciatura,43,75309.96,41,9,1.4,2018-10-03
+1489,Tecnología,Senior,CDMX,Licenciatura,42,58168.78,42,8,2.9,2023-04-20
+1490,Tecnología,Junior,CDMX,Técnico,30,62546.18,52,7,1.9,2016-12-23
+1491,Recursos Humanos,Lead,Puebla,Licenciatura,30,79419.22,48,7,1.8,2019-04-04
+1492,Recursos Humanos,Semi-Senior,Monterrey,Maestría,34,54130.95,49,2,1.2,2021-01-07
+1493,Recursos Humanos,Junior,Monterrey,Licenciatura,23,52450.28,39,2,3.2,2021-04-14
+1494,Tecnología,Lead,Puebla,Licenciatura,32,84915.36,41,4,1.6,2020-10-06
+1495,Recursos Humanos,Lead,Querétaro,Técnico,53,85277.4,40,4,1.4,2015-08-12
+1496,Finanzas,Junior,Monterrey,Maestría,49,36863.08,45,4,1.5,2020-01-08
+1497,Recursos Humanos,Lead,CDMX,Licenciatura,23,83552.01,40,4,3.6,2018-10-26
+1498,Tecnología,Junior,Monterrey,Licenciatura,59,67125.42,42,12,4.2,2020-07-13
+1499,Ventas,Semi-Senior,Querétaro,Maestría,50,60661.78,39,8,2.2,2021-12-26
